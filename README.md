@@ -1,7 +1,8 @@
 <h3>I am 3nd year student studying B Tech (CSBS) in Visveswarayya Technological Institution Belagavi</h3>
+<br>"Learn": "Earn":♾️</br>
 $$🌐 SOCIAL MEDIA:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/=========) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/SunilSLamani1225) [![Youtube](https://img.shields.io/badge/Youtube-%231877F2.svg?logo=Youtube&logoColor=red)](https:// youtube.com/@SunilLamani-qr4lu)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/=========) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/SunilSLamani1225) 
 
 $$💻 TECHNOLOGY:
 

@@ -1,4 +1,4 @@
-# Hi there, I'm Sunil S. Lamani 👋 
+# Hi there, I'm Sunil S. Lamani 
 
 # 3rd Year B.Tech (CSBS) Student @ VTU Belagavi
 **"Learn" = "Earn" = ♾️ = 💰💸**

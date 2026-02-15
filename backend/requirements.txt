@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+motor
+python-multipart
+python-dotenv
+emergentintegrations
+pydantic
+pydantic-settings

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VTU DOT - Engineering Study Resources</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f9fa;
+    }
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav {
+      background-color: #0059b3;
+      text-align: center;
+      padding: 0.5rem;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    main {
+      padding: 2rem;
+    }
+    .section {
+      margin-bottom: 2rem;
+    }
+    .section h2 {
+      color: #004080;
+    }
+    .branches {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+    }
+    .branch {
+      background-color: white;
+      border: 1px solid #ccc;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+    .branch:hover {
+      transform: scale(1.05);
+    }
+    footer {
+      background-color: #004080;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>VTU DOT</h1>
+    <p>Your One-Stop Solution for Engineering Study Materials and Question Papers</p>
+  </header>
+  <nav>
+    <a href="#study-materials">Study Materials</a>
+    <a href="#question-papers">Question Papers</a>
+    <a href="#branches">Branches</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <main>
+    <section class="section" id="study-materials">
+      <h2>Study Materials</h2>
+      <p>Download study notes, presentations, and reference guides for all branches.</p>
+    </section>
+    <section class="section" id="question-papers">
+      <h2>Question Papers</h2>
+      <p>Access previous years' question papers and model papers for practice.</p>
+    </section>
+    <section class="section" id="branches">
+      <h2>Available Branches</h2>
+      <div class="branches">
+        <div class="branch" onclick="showBranch('Computer Science')">Computer Science</div>
+        <div class="branch" onclick="showBranch('Electronics and Communication')">Electronics and Communication</div>
+        <div class="branch" onclick="showBranch('Mechanical Engineering')">Mechanical Engineering</div>
+        <div class="branch" onclick="showBranch('Civil Engineering')">Civil Engineering</div>
+        <div class="branch" onclick="showBranch('Electrical Engineering')">Electrical Engineering</div>
+        <div class="branch" onclick="showBranch('Information Science')">Information Science</div>
+      </div>
+    </section>
+    <section class="section" id="contact">
+      <h2>Contact Us</h2>
+      <p>Email: support@vtudot.com</p>
+      <p>Phone: +91 98765 43210</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 VTU DOT. All rights reserved.</p>
+  </footer>
+  <script>
+    function showBranch(branch) {
+      alert("You selected: " + branch);
+    }
+  </script>
+</body>
+</html>

@@ -1,15 +1,15 @@
 # Hi there, I'm Sunil S. Lamani 
 
 # 3rd Year B.Tech (CSBS) Student @ VTU Belagavi
-**"Code" = "Create" = "Career" = 🚀💻**
+**"Code" = "Create" = "Career" **
 
 I am an aspiring **Full Stack Web Developer** passionate about building responsive, scalable web applications. With a background in **Computer Science & Business Systems**, I combine technical expertise with creative problem-solving to develop engaging digital experiences. I'm also interested in web security and performance optimization.
 
 ---
 
-# 📁 Featured Projects
+# Featured Projects
 
-### 🌾 AI Crop Disease Detection
+###  AI Crop Disease Detection
 A machine learning project focused on identifying and classifying crop diseases using AI techniques. This project demonstrates my interest in applying technology to solve real-world agricultural problems.
 - **Technologies**: Python, Machine Learning, TensorFlow
 - **Status**: In Development
@@ -34,14 +34,14 @@ A machine learning project focused on identifying and classifying crop diseases 
 ## AI & ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 📜 Certifications
+###  Certifications
 - **Generative AI Literacy** - FutureSkills Prime (Nasscom/Meity)
 - **Introduction to Python** - Analytics Vidhya
 - **Green Skills & AI** - Edunet Foundation (AICTE/Shell)
 
 ---
 
-### 🌐 Social Media & Contact
+###  Social Media & Contact
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/SunilSLamani1225) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/sunil-s-lamani-169a7b384)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/sunilSlamani)

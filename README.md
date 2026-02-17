@@ -13,22 +13,6 @@ I am an aspiring Cybersecurity professional specializing in the technical side o
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-
-# Cybersecurity & Technical Focus
-- **Technical Hacking:** Exploiting vulnerabilities and understanding the "why" behind the hack.
-- **Network Security:** Analyzing traffic and securing protocols across the OSI Model.
-- **Security Scripting:** Using Python and C++ to build automation tools for threat detection.
-
-
-
----
-
-# Featured Projects
-- **[Automatic Road Analyzer](https://github.com/sunilSlamani/Automatic-Road-Analyzer):** A technical solution for infrastructure analysis using Python.
-- **Python Security Scripts:** (In Progress) Custom scripts for port scanning and vulnerability assessment.
-
----
-
 ### 📜 Certifications
 - **Generative AI Literacy** - FutureSkills Prime (Nasscom/Meity)
 - **Introduction to Python** - Analytics Vidhya

@@ -20,8 +20,8 @@
 
 #  About Me
 
-->**3rd Year B.Tech (CSBS)** @ VTU Belagavi  
--> Passionate about **Full Stack Web Development**  
+->**4th Year B.Tech (CSBS)** @ VTU Belagavi  
+-> Passionate about **Software Development Engineer(SDE) **  
 -> Interested in **Artificial Intelligence & Machine Learning**  
 -> Exploring **Web Security & Performance Optimization**  
 -> Goal: Become a **Top Software Engineer**
